@@ -187,14 +187,6 @@ The Power BI dashboard was created to provide business-friendly insights.
 * SHAP
 
 
-## Future Improvements
-
-* Real-time fraud monitoring
-* Explainable AI dashboard using SHAP
-* Streamlit deployment
-* Automated fraud alerting system
-* Advanced anomaly detection techniques
-
 ---
 
 ## Author
