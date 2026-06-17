@@ -64,7 +64,7 @@ Analyzed fraud occurrence across different hours of the day.
 Key Findings:
 
 * Fraud activity peaks during late-night hours.
-* Significant fraud spikes observed between 12 AM – 3 AM.
+* Significant fraud spikes observed between 9 PM – 4 AM.
 * Secondary increase observed during late evening hours.
 
 ### Distance Analysis
