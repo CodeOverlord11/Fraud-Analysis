@@ -1,3 +1,16 @@
 Recommendations for improved detection of fraudulent transactions and reduction of false positives based on uncovered insights from data analysis:
 
-1)Flag unusual transactions occuring between 9PM - 4AM
+1)Flag unusual transactions occuring between 9PM - 4AM:
+  Analysis of dataset reveals that fraud transactions spike after 9 PM till 4 AM . Thus to flag more fraud transactions , banks should flag more unusual transactions happening between this time period
+
+2)Online shopping has the highest vulnerability to fraud:
+  Analysis reveals that online shopping accounts for 43% ,Miscallenous net shoppings account for 18.5%  and physical shopping at point of sale account for 18.2% of total money lost to fraud. Thus , banks are recommended to implement tighter security checks during online transactions
+
+3)Amount bucket in which fraud transactions mostly occur:
+Analysis reveals that most of the fraud transactions occur in the amount bucket of 0-1k and 1k-5k . Thus banks should keep an eye out for transactions happening in this range
+
+4)Time difference between fraud transactions:
+ The velocity features show that the mean time difference between fraudulent transactions is very less , thus banks should flag accounts withdrawing money multiple times within a short timespan
+
+
+   
